@@ -1,3 +1,3 @@
 # CYOA
 Choose your own adventure game
-*uses guava, install guava
+requires the installation of guava for graphs
